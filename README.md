@@ -28,3 +28,7 @@ This collection of modules covers modern Linux- and DevOps-based infrastructure 
 - Access rights: a user with sudo privileges.
 - Supporting tools: OpenSSH, Nginx, Docker Engine, Docker Compose plugin.
 - Optional cloud: one active VPS and one object storage account.
+
+<!-- last-updated -->
+_Last updated: 2026-09-05_
+
