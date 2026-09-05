@@ -1,8 +1,8 @@
-# Infrastructure: Virtualisasi & Server Management
+# Infrastructure: Virtualization & Server Management
 
-Kumpulan modul ini membahas praktik infrastruktur modern berbasis Linux dan DevOps. Setiap modul ditulis sebagai unit mandiri, tetapi tetap saling terhubung dalam alur implementasi dunia kerja: dari manajemen server dasar, keamanan akses, pengelolaan layanan, containerization, orkestrasi sederhana, layanan cloud, hingga monitoring.
+This collection of modules covers modern Linux- and DevOps-based infrastructure practices. Each module is written as a standalone unit, yet they remain interconnected in a real-world implementation flow: from basic server management and access security, to service management, containerization, simple orchestration, cloud services, and monitoring.
 
-## Daftar Modul
+## Module List
 
 1. [01_Linux_Server_dan_CLI.md](01_Linux_Server_dan_CLI.md)
 2. [02_User_Privilege_dan_SSH_Key.md](02_User_Privilege_dan_SSH_Key.md)
@@ -12,19 +12,19 @@ Kumpulan modul ini membahas praktik infrastruktur modern berbasis Linux dan DevO
 6. [06_Cloud_Computing_VPS_dan_Object_Storage.md](06_Cloud_Computing_VPS_dan_Object_Storage.md)
 7. [07_Monitoring_Server.md](07_Monitoring_Server.md)
 
-## Rekomendasi Urutan Belajar
+## Recommended Learning Order
 
-1. Linux Server dan CLI
-2. User Privilege dan SSH Key
-3. Nginx dan Reverse Proxy
+1. Linux Server and CLI
+2. User Privilege and SSH Key
+3. Nginx and Reverse Proxy
 4. Docker
 5. Docker Compose
 6. Cloud Computing
 7. Monitoring Server
 
-## Catatan Lingkungan Praktik
+## Practice Environment Notes
 
-- Distribusi Linux: Ubuntu Server 22.04 LTS atau 24.04 LTS.
-- Hak akses: user dengan sudo privilege.
-- Tools pendukung: OpenSSH, Nginx, Docker Engine, Docker Compose plugin.
-- Opsional cloud: satu VPS aktif dan satu akun object storage.
+- Linux distribution: Ubuntu Server 22.04 LTS or 24.04 LTS.
+- Access rights: a user with sudo privileges.
+- Supporting tools: OpenSSH, Nginx, Docker Engine, Docker Compose plugin.
+- Optional cloud: one active VPS and one object storage account.
